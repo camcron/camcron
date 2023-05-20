@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @camcron
-- 👀 I’m interested in learning a lot more about frontend development
-- 🌱 I’m currently learning HTML, CSS & JavaScript
+- 👋 Hi, I’m Camilla!
+- 🔭 I’m currently working with JavaScript and React
+- 🌱 I’m currently learning Node.js and MongoDB
 - 📫 How to reach me: https://www.linkedin.com/in/camilla-cronqvist/
 
 <!---
